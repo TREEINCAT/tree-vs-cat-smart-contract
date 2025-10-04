@@ -27,15 +27,38 @@ Initializes the game state with authority, mint, and treasury accounts.
 
 ### `buy_fish`
 
-Purchase fish items (Small: 500 TIC, Medium: 750 TIC, Large: 1000 TIC)
+Purchase fish items with variable pricing:
+- Small: 500 TIC
+- Medium: 750 TIC
+- Large: 1000 TIC
 
 ### `buy_cat`
 
-Purchase cat spawns (1000 TIC per cat)
+Purchase cat spawns with tiered pricing based on rarity:
+- Stray: 250 TIC
+- Kitten: 400 TIC
+- Tabby: 550 TIC
+- Persian: 700 TIC
+- MaineCoon: 850 TIC
+- Siamese: 1000 TIC
+- Bengal: 2000 TIC
+- ShadowCat: 3000 TIC
 
 ### `buy_tree`
 
-Purchase tree placements (1000 TIC per tree)
+Purchase tree placements with tiered pricing based on rarity:
+- Seedling: 250 TIC
+- Sapling: 400 TIC
+- Oak: 550 TIC
+- Pine: 700 TIC
+- Redwood: 850 TIC
+- Willow: 1000 TIC
+- Baobab: 1150 TIC
+- Palm: 1300 TIC
+- Bonsai: 1450 TIC
+- Maple: 1600 TIC
+- Cactus: 2150 TIC
+- WorldTree: 4300 TIC
 
 ## 🏗️ Project Structure
 

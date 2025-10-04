@@ -20,7 +20,8 @@ test-ledger/
 *.d
 
 # Cargo
-Cargo.lock
+# Note: Cargo.lock is tracked for verification purposes
+# Cargo.lock
 
 # Logs
 *.log

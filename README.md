@@ -9,8 +9,12 @@ This Anchor-based Solana program powers the in-game economy for TREEINCAT WORLD:
 ## 📋 Contract Details
 
 - **Program ID**: `FTUi8srvZA5Gng8sfiDFsdN352ydQPnUABWvVqp5qGqF`
+  - [View on Solana Explorer](https://explorer.solana.com/address/FTUi8srvZA5Gng8sfiDFsdN352ydQPnUABWvVqp5qGqF)
+  - [View on Solscan](https://solscan.io/account/FTUi8srvZA5Gng8sfiDFsdN352ydQPnUABWvVqp5qGqF)
 - **Network**: Solana Mainnet-Beta
 - **Token**: $TREEINCAT (`5AzTQ5zUuWUNGetxaRpo9DK9w8FQXoPjn5a4ZXMMmoon`)
+  - [View on Solana Explorer](https://explorer.solana.com/address/5AzTQ5zUuWUNGetxaRpo9DK9w8FQXoPjn5a4ZXMMmoon)
+  - [View on Solscan](https://solscan.io/token/5AzTQ5zUuWUNGetxaRpo9DK9w8FQXoPjn5a4ZXMMmoon)
 - **Framework**: Anchor v0.29.0
 
 ## 🔥 Tokenomics
@@ -28,6 +32,7 @@ Initializes the game state with authority, mint, and treasury accounts.
 ### `buy_fish`
 
 Purchase fish items with variable pricing:
+
 - Small: 500 TIC
 - Medium: 750 TIC
 - Large: 1000 TIC
@@ -35,6 +40,7 @@ Purchase fish items with variable pricing:
 ### `buy_cat`
 
 Purchase cat spawns with tiered pricing based on rarity:
+
 - Stray: 250 TIC
 - Kitten: 400 TIC
 - Tabby: 550 TIC
@@ -47,6 +53,7 @@ Purchase cat spawns with tiered pricing based on rarity:
 ### `buy_tree`
 
 Purchase tree placements with tiered pricing based on rarity:
+
 - Seedling: 250 TIC
 - Sapling: 400 TIC
 - Oak: 550 TIC

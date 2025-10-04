@@ -1,0 +1,34 @@
+# Anchor
+.anchor
+target/
+**/*.rs.bk
+node_modules/
+test-ledger/
+.DS_Store
+
+# IDL
+!target/idl/
+!target/types/
+
+# Keys (never commit private keys!)
+*.json
+!package*.json
+!tsconfig.json
+
+# Build artifacts
+*.so
+*.d
+
+# Cargo
+Cargo.lock
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+

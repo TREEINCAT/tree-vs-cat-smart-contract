@@ -33,3 +33,5 @@ test-ledger/
 *.swo
 *~
 
+# Generated terrain data required for verification
+!generated-terrain/terrain.json

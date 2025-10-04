@@ -10,7 +10,7 @@ This Anchor-based Solana program powers the in-game economy for TREEINCAT WORLD:
 
 - **Program ID**: `FTUi8srvZA5Gng8sfiDFsdN352ydQPnUABWvVqp5qGqF`
 - **Network**: Solana Mainnet-Beta
-- **Token**: $TREEINCAT (`FJduhgN3MtPNjsu8cPJCqy9jkCMnZwRRCSd4thsHZRpr`)
+- **Token**: $TREEINCAT (`5AzTQ5zUuWUNGetxaRpo9DK9w8FQXoPjn5a4ZXMMmoon`)
 - **Framework**: Anchor v0.29.0
 
 ## 🔥 Tokenomics

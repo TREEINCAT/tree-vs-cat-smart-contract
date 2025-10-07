@@ -38,7 +38,6 @@ Automated on-chain verification tools currently have limitations with newer Carg
 ### Trust Signals
 - Program has processed thousands of transactions safely
 - All contract functions are deterministic and auditable
-- No upgrade authority (immutable contract)
 - Treasury and burn mechanisms are transparent and verifiable on-chain
 
 ## 🔥 Tokenomics

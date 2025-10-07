@@ -20,7 +20,7 @@ This Anchor-based Solana program powers the in-game economy for TREEINCAT WORLD:
 ## 🔒 Security & Transparency
 
 ### Deployment History
-- **Deployed**: 10 months ago on Solana Mainnet
+- **Deployed**: 06/10/2025 on Solana Mainnet
 - **Status**: Active and running without security incidents
 - **Built From**: Private monorepo containing full game logic
 - **This Repo**: Contains the complete smart contract source code for public audit

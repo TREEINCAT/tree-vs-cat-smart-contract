@@ -27,7 +27,6 @@ test-ledger/
 *.log
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo

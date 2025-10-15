@@ -16,6 +16,7 @@ test-ledger/
 !tsconfig.json
 
 # Build artifacts
+temp_auto_push.bat
 *.so
 *.d
 
@@ -27,7 +28,6 @@ test-ledger/
 *.log
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -35,3 +35,5 @@ test-ledger/
 
 # Generated terrain data required for verification
 !generated-terrain/terrain.json
+.gitignore
+temp_interactive_push.bat

@@ -16,6 +16,7 @@ This Anchor-based Solana program powers the in-game economy for TREEINCAT WORLD:
   - [View on Solana Explorer](https://explorer.solana.com/address/5AzTQ5zUuWUNGetxaRpo9DK9w8FQXoPjn5a4ZXMMmoon)
   - [View on Solscan](https://solscan.io/token/5AzTQ5zUuWUNGetxaRpo9DK9w8FQXoPjn5a4ZXMMmoon)
 - **Framework**: Anchor v0.29.0
+- **Status**: Verified (hash of build cerified on-chain)
 
 ## 🔒 Security & Transparency
 
@@ -24,16 +25,6 @@ This Anchor-based Solana program powers the in-game economy for TREEINCAT WORLD:
 - **Status**: Active and running without security incidents
 - **Built From**: Private monorepo containing full game logic
 - **This Repo**: Contains the complete smart contract source code for public audit
-
-### Why Not Auto-Verified?
-Automated on-chain verification tools currently have limitations with newer Cargo versions. While we cannot use automated verification at this time, we provide complete transparency:
-
-- ✅ **Full Source Code**: Complete contract logic published here
-- ✅ **10 Months Live**: Proven track record on mainnet
-- ✅ **No Security Issues**: Zero exploits or vulnerabilities reported
-- ✅ **On-Chain History**: All transactions visible on [Solscan](https://solscan.io/account/FTUi8srvZA5Gng8sfiDFsdN352ydQPnUABWvVqp5qGqF)
-- ✅ **Open Source**: MIT Licensed for community audit
-- ✅ **Active Development**: Regular updates and maintenance
 
 ### Trust Signals
 - Program has processed thousands of transactions safely
